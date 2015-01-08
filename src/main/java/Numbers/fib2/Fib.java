@@ -51,16 +51,19 @@ public class Fib {
         if (res1 >= 0)
             return BigInteger.valueOf(1);
 
+
+
+
+
+
+
+
+        /*
         for (){
-c
+
         }
-
-
-
-
-
-        ans = BigInteger.valueOf(res);
-
+        ans = BigInteger.valueOf(res); last comment
+*/
 
 /*
         if ( ans <= res
